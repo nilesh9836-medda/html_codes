@@ -53,3 +53,5 @@ Now, save this code with `.html` extension in a folder. Then open the file with 
     </p>
 </body>
 ```
+
+*[Click here to see the output](./003paragraph.html)*
